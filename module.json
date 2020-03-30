@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "Broker",
+  "author": "TerableMods",
+  "description": "Open the Trade Broker anywhere using a chat command",
+  "options": {
+    "niceName": "Broker",
+    "guiName": "Broker"
+  },
+  "servers": ["https://raw.githubusercontent.com/TerableMods/Broker/master/"],
+  "supportUrl": "https://github.com/TerableMods/Broker/issues"
+}

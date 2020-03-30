@@ -1,0 +1,10 @@
+{
+	"files": {
+		"README.md": "4902b3a2cb058f74e487c61e5c8599d81f7a0ae96fb953b6a8d0b4ad01d809f6",
+		"index.js": "1cded58e638d69412a9be961aa9ea8b26c6dcda7f74365cdfe9dcb31e682984c",
+		"module.json": "12d27415129cf692a642af415738dcd6c3b2176cc27fb2f47003c4bb46f6bbaf"
+	},
+	"defs": {
+		"S_NPC_MENU_SELECT": 1
+	}
+}
